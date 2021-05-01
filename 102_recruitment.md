@@ -8,27 +8,27 @@ Let's imagine an imaginary player who is the perfect recruit, exactly the kind o
 
 What is Bill like?
 
-	- Bill loves to play WoW, and recognizes that it's just a game.
-	- Bill is a `trysoft` - he tries, but he's not a tryhard.
-	- Bill enjoys playing with friends, and is happy to attend public events to help the team.
-	- Bill has a great sense of humor and isn't turned off by Sneeze's lame jokes.
-	- Bill also happens to pump and is excellent at whatever role he plays.
-	- Bill is a humble raider, and during progression learns from occasional constructive criticism, as long as it's reasonable and not a personal dig.
-    - Bill never resorts to personal attacks on one's character, and is accepting of every guildie.
-    - `Bill fucks.`
+- Bill loves to play WoW, and recognizes that it's just a game.
+- Bill is a `trysoft` - he tries, but he's not a tryhard.
+- Bill enjoys playing with friends, and is happy to attend public events to help the team.
+- Bill has a great sense of humor and isn't turned off by Sneeze's lame jokes.
+- Bill also happens to pump and is excellent at whatever role he plays.
+- Bill is a humble raider, and during progression learns from occasional constructive criticism, as long as it's reasonable and not a personal dig.
+- Bill never resorts to personal attacks on one's character, and is accepting of every guildie.
+- `Bill fucks.`
 
 Let's also imagine another player who we do NOT want, an imaginary player named `Jordan`. We don't want to recruit any `Jordan`s, as their personalities clash with what we're trying to accomplish.
 
 What is Jordan like?
 
-	- Jordan is a sweaty tryhard who gets upset when the guild hasn't met his idea of success.
-	- Jordan is toxic on chat, frequently resorts to personal attacks, and speaks poorly of other guildies behind their back.
-    - Jordan is a slacker who hardly ever shows up to raid, and puts zero effort into improving his raid knowledge & performance.
-    - Jordan is a person who constantly begs for help from other guildies, but is almost never willing to help.
-    - Jordan does not respond well to constructive feedback and is never willing to change his gameplay to help the raid.
-    - Jordan is easily offended and frequently gets angry at other guildies during social events.
-    - Jordan does not cry at the end of the Iron Giant because he a stupid, soulless FUCK.
-    - Jordan does not fuck.
+- Jordan is a sweaty tryhard who gets upset when the guild hasn't met his idea of success.
+- Jordan is toxic on chat, frequently resorts to personal attacks, and speaks poorly of other guildies behind their back.
+- Jordan is a slacker who hardly ever shows up to raid, and puts zero effort into improving his raid knowledge & performance.
+- Jordan is a person who constantly begs for help from other guildies, but is almost never willing to help.
+- Jordan does not respond well to constructive feedback and is never willing to change his gameplay to help the raid.
+- Jordan is easily offended and frequently gets angry at other guildies during social events.
+- Jordan does not cry at the end of the Iron Giant because he a stupid, soulless FUCK.
+- `Jordan does not fuck.`
 
 ## Making A Good Recruit Message
 
