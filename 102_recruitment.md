@@ -36,12 +36,12 @@ Now that we know *who* would make a good recruit, how does that affect the way w
 
 Keeping this in mind, you should keep the following things in mind when writing guild recruit messages:
 
-    1. Guild recruit messages should often include a lighthearted joke that Bill would like.
-    2. Guild recruit messages should stand out and be memorable for memers like Bill.
-    3. Guild messages should contain enough information so Bill knows:
-        - <Juicy> is a guild that's recruiting.
-        - We are a raiding guild focused on having fun and building a good community.
-        - Bill fucks, and Jordan does not.
-    4. Guild messages should stray away from being too serious and cringe.
+1. Guild recruit messages should often include a lighthearted joke that Bill would like.
+2. Guild recruit messages should stand out and be memorable for memers like Bill.
+3. Guild messages should contain enough information so Bill knows:
+    - <Juicy> is a guild that's recruiting.
+    - We are a raiding guild focused on having fun and building a good community.
+    - Bill fucks, and Jordan does not.
+4. Guild messages should stray away from being too serious and cringe.
 
 Check the recruitment chat on Discord for some good Juicy macros.
