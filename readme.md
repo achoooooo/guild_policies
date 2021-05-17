@@ -5,9 +5,9 @@ This is a reference policy document for <Juicy>. Nobody is expected to read this
 ## Table of Contents
 
 * `100. Bill of Rights`
-* `101. Recruitment`
-* `102. Guild Structure`
-* `103. Raid Structure`
+* `101. Guild Structure`
+* `102. Raid Structure`
+* `103. Recruitment`
 * `104. Loot System`
 
 ## Guild Leadership
@@ -24,10 +24,9 @@ This is only the first draft. Once TBC starts we'll be scouting our most dedicat
 - Raid lead:
 - Raid strategist: Penzo
 - Loot master:
-- Treasurer:
+- Guild bank:
 - Event lead:
 - PvP lead:
-- Group master:
 
 ### Class Representative
 - Druid
