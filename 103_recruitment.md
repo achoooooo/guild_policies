@@ -1,15 +1,18 @@
 # 102. Recruitment
 
-Guild recruiting is important. The key to good recruitment is to understand what kind of player we're looking for, and from there we can develop a full recruitment strategy. So, who are we looking for?
+Guild recruiting is the cornerstone of a successful guild. We're a unique guild, and we expect that not every player will want to be a Juicy member - which is totally fine. At the same time, there are certain players we don't want in our guild as well (Jordans, see below). Problems come about when certain toxic players can't be removed, as doing so would cause the raid team to fall apart. Because of this, a good guild should have consistent and effective recruiting to make sure a supply of quality players is always available. A well-balanced guild should never be afraid to lose a player in fear that the guild would fall apart, and quality recruitment is the answer to this problem.
+
+How should our guild recruit? The key to good recruitment is to understand what kind of player we're looking for, and from there we can develop a full recruitment strategy. So, who are we looking for?
 
 ## The Ideal <Juicy> Guildie
 
-Let's imagine an imaginary player who is the perfect recruit, exactly the kind of person we want. Let's call this person `Bill`. Most people aren't exactly like `Bill`, and all of us could be a little more like `Bill`. 
+Let's imagine an imaginary player who is the perfect recruit in every way, the exact person we want. Let's call this person `Bill`. We all have some things in common with `Bill`, but at the same time all of us could be a little more like `Bill`. 
 
 What is Bill like?
 
 - Bill loves to play WoW, and recognizes that it's just a game.
-- Bill is a `trysoft` - he tries, but he's not a tryhard.
+- Bill is a `trysoft` - he does try, but he's not a tryhard.
+- Bill is always keen on the guild policies and doesn't break any guild rules.
 - Bill enjoys playing with friends, and is happy to attend public events to help the team.
 - Bill has a great sense of humor and isn't turned off by Sneeze's lame jokes.
 - Bill also happens to pump and is excellent at whatever role he plays.
@@ -27,7 +30,6 @@ What is Jordan like?
 - Jordan is a person who constantly begs for help from other guildies, but is almost never willing to help.
 - Jordan does not respond well to constructive feedback and is never willing to change his gameplay to help the raid.
 - Jordan is easily offended and frequently gets angry at other guildies during social events.
-- Jordan does not cry at the end of the Iron Giant because he a stupid, soulless FUCK.
 - `Jordan does not fuck.`
 
 ## Making A Good Recruit Message
@@ -37,11 +39,12 @@ Now that we know *who* would make a good recruit, how does that affect the way w
 Keeping this in mind, you should keep the following things in mind when writing guild recruit messages:
 
 1. Guild recruit messages should often include a lighthearted joke that Bill would like.
-2. Guild recruit messages should stand out and be memorable for memers like Bill.
-3. Guild messages should contain enough information so Bill knows:
+2. Guild recruit messages should stand out and be memorable.
+3. Guild messages should contain enough information so players know:
     - <Juicy> is a guild that's recruiting.
     - We are a raiding guild focused on having fun and building a good community.
-    - Bill fucks, and Jordan does not.
-4. Guild messages should stray away from being too serious and cringe.
+    - Optional: Bill fucks, and Jordan does not.
+4. Guild recruits should be serious enough to attract real players with a real interest in playing the game.
+5. Guild recruits should stray away from being too serious and cringe.
 
-Check the recruitment chat on Discord for some good Juicy macros.
+Check the #recruitment chat on Discord for some good Juicy macros.
