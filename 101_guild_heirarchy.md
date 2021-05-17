@@ -2,25 +2,37 @@
 
 Juicy has a bit of a different type of guild structure. Below in detail we'll describe our guilds unique structure, as well as some motivation on why it was created in this manner. A quick terminology distinction: the set of class 2 Leads are simply referred to as "Leads", and all three classes in the heirarchy defined here are referred to as "the leadership team". So below references to the "leadership team" are meant to include Officers and Class Representatives as well.
 
-# Motivation
+# Sneeze's Juicy Manifesto
 
-TODO: Motivation - why not just officers?
+There are a couple major problems I wanted the guild structure to address when designing this guild:
+
+1. "Class leads" being automatic officers is a flawed concept
+    - If someone plays a class well, that's great. But playing a certain class has little to do with the ability to be a good leader and officer.
+    - What happens if you have no responsible player that plays a certain class? You are faced with an impossible choice of promoting a bad player to the guild's most respected role, or having a missing leadership spot.
+    - What if you have two really great players that play the same class? Then you have at least one great player who never gets to become a recognized officer, because there is simply no avenue for them to do so.
+
+TODO: fix these bullets below ~~~
+2. Most guilds offer no way for a player to assist the guild unless they are made an officer.
+    - In a typical guild, you may want to make somebody
+2. Having too many officers makes it difficult to make decisions
+    - There are many jobs a guild needs to be performed by trusted members. If all of these people were treated as generic "officers", that would give each one an equal claim at major guild decisions. This creates a situation where it's
+    It's difficult to get a 9+ officers to agree on anything with a consensus. It creates a dynamic where too many people have technically equal claim at major guild decisions. For better or worse, smaller teams are able to reach an agreement more easily than 9+ officers.
+    - The guild should have only enough officers as necessary to make informed and balanced decisions, but few enough such that agreements can be focused and easily reached.
+    - It's better to prefer having too few officers over too many for a simple reason: it is much easier to add an officer than it is to remove one.
+
+So, what's the solution? Instead of having a leadership that's centralized around your class, it should be centralized around *jobs*. 
 
 # The Three Overlapping Leadership Classes
 
+Juicy's primary roles are split into three major classes: **Officers**, **Leads**, and **Class Representatives**. It's important to note that these three classes are technically *mutually exclusive*, meaning it's possible for someone (like Bill) to be all three at the same time. That being said, a single player cannot be two types of leads, or a representative of two classes. That's because it defats the purpose of these roles, which is to be highly specialized expert a single domain.
+
 ## Class 1: Officers
 
-Officers are the highest level decision makers in the guild. They exist to have the final say on guild decisions, but can (and should) gather opinions for the guild's trusted council, such as the rest of the guild's leadership team, to make quality decisions. Unlike other guilds, the Juicy team of officers is meant to be *small*. This is done on purpose to allow the guild to be more flexible and focused in their decision-making.
+Officers are the highest level decision makers in the guild. They exist to have the final say on guild decisions, but can (and should) gather opinions for the guild's trusted council, such as the rest of the guild's leadership team, to make quality decisions.
 
 ### Officer Qualification
 
-As officers represent the highest tier
-
-- Who gets to be officer?
-    - As explained below, that is up to the sole discretion of the GM.
-    - The expectation is that members of the Class 2 Lead team are first in line to be selected as they represent the guild's most trusted members.
-- How many officers are there?
-    - This is also exclusively up to the GM, but as explained above in the `Motivation` section, this number is meant to be kept relatively small.
+Additional Officers are added and removed at the sole discretion of the GM, who themselves is an officer. It's expected that Leads who are doing a great job should be first in line to become officers, as they should represent the guild's most trusted and responsible members. The number of officers is also up to the discretion of the GM, but should be kept low for reasons explained above in the `Motivation` section.
 
 ### Officer Responsibilities
 
