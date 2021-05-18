@@ -26,7 +26,6 @@ This is only the first draft. Once TBC starts we'll be scouting our most dedicat
 - Loot master:
 - Guild bank:
 - Event lead:
-- PvP lead:
 
 ### Class Representative
 - Druid
