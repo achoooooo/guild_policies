@@ -1,4 +1,4 @@
-# 102. Recruitment
+# 103. Recruitment
 
 Guild recruiting is the cornerstone of a successful guild. We're a unique guild, and we expect that not every player will want to be a Juicy member - which is totally fine. At the same time, there are certain players we don't want in our guild as well (Jordans, see below). Problems come about when certain toxic players can't be removed, as doing so would cause the raid team to fall apart. Because of this, a good guild should have consistent and effective recruiting to make sure a supply of quality players is always available. A well-balanced guild should never be afraid to lose a player in fear that the guild would fall apart, and quality recruitment is the answer to this problem.
 

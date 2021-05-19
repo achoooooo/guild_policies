@@ -12,7 +12,7 @@ Juicy's leadership team is split into three major classes: **Officers**, **Leads
 Representatives**. It's important to note that these three classes are technically *mutually
 exclusive*, meaning it's possible for someone (like Bill) to be all three at the same time. That
 being said, a single player cannot be two types of leads, or a representative of two classes. That's
-because it defats the purpose of these roles, which is to be highly specialized expert a single
+because it defeats the purpose of these roles, which is to be highly specialized expert a single
 domain.
 
 ## Class 1: Officers
@@ -160,7 +160,7 @@ The raid strategist should:
 
 - Be incredibly knowledgable of TBC content and keep up to date on popular strategies to complete
 raid content to the best of our ability.
-- Work together the raid lead to refine a complete raid strategy.
+- Work together with the raid lead to refine a complete raid strategy.
 - Be the raid's go-to contact for any suggestions to improve raid stability.
 - Work with the rest of the leadership team to fill gaps that affect raid performance.
 
