@@ -6,38 +6,6 @@ set of class 2 Leads are simply referred to as "Leads", and all three classes in
 defined here are referred to as "the leadership team". So below references to the "leadership team"
 are meant to include Officers and Class Representatives as well.
 
-# Sneeze's Juicy Manifesto
-
-There are a couple of major problems I wanted the guild structure to address:
-
-1. "Class leads" being automatic officers is a flawed concept
-   - If someone plays a class well, that's great. But playing a certain class has little to do
-   with one's ability to be a good leader and officer.
-   - What happens if you have no responsible player that plays a certain class? You are faced with
-   an impossible choice of promoting a bad player to the guild's most respected role, or having a
-   missing leadership spot.
-   - What if you have two really great players that play the same class? Then you have at least
-   one great player who never gets to become a recognized officer, because there is simply no
-   avenue for them to do so.
-1. Having too many "officers" makes it difficult to make big decisions
-   - This is a huge and likely controversial point. In short: I believe there are certain
-   situations where it's better to have fewer people making decisions, rather than more. 
-   - This definitely exeplifies the concept of "too many cooks in the kitchen", it can be
-   paralyzing to a guild to have officers arguing forever over the final say.
-   - Of course, that's not to say that most decisions need more that just a few people deciding.
-   But there needs to be some mechanic in order to give a smaller number of people the ability to
-   reach a consensus.
-   - The guild should have enough officers as necessary to make informed and balanced decisions,
-   but few enough such that agreements can be easily reached and with a clear direction.
-   - Starting off with fewer members of leadership is also never a bad idea due to a very simple
-   premise: it's much easier to add someone to the leadership team than it is to remove them.
-
-So, what's the solution? Instead of having a leadership that's centralized around your class, it
-should be centralized around *jobs*. Guilds have done this already by making certain people "raid
-lead", "loot master", and more. But as seen above, we feel it's more flexible if the number of
-people making guildwide decisions is not directly tied to the number of people helping perform these
-jobs. This way adding and removing these jobs is much easier.
-
 # The Three Juicy Leaders
 
 Juicy's leadership team is split into three major classes: **Officers**, **Leads**, and **Class
@@ -58,8 +26,8 @@ rest of the guild's leadership team, to make quality decisions.
 Additional Officers are added and removed at the sole discretion of the GM, who themselves is an
 officer. It's expected that Leads who are doing a great job should be first in line to become
 officers, as they should represent the guild's most trusted and responsible members. The number of
-officers is also up to the discretion of the GM, but should be kept low for reasons explained above
-in `Sneeze's Juicy Manifesto`.
+officers is also up to the discretion of the GM, but should be kept low for reasons explained in
+`Sneeze's Juicy Manifesto` on the main page.
 
 ### Officer Responsibilities
 
@@ -137,38 +105,104 @@ order to not be replaced.
 
 ### Shared Responsibilities
 
-Leads are expected to have a lot in common with our guild's ideal recruit, `Bill`, and strive to be
-more like `Bill` every day.
+As one of the guild's most respected ranks, Leads are expected to have a lot in common with our
+guild's ideal recruit, `Bill`. Leads are also expected to do the following:
 
-TODO: Add more
+1. Be knowledgeable in their selected focus area and assume its associated jobs.
+1. Meet on occasion with the officers to discuss guild issues and planning.
+1. Be responsible rule-following players.
+1. In some cases, and at their discretion, Leads will be expected to manage a small team of
+assistants to perform their duties.
+
+Below we'll discuss the role of each lead in detail.
 
 ### Recruitment lead
 
-TODO
+Recruitment is probably the single most important job in the entire guild. Without recruitment, our
+community dies out, our raid misses out on new talent, and our presence on the realm diminishes. As
+a recruitment lead, you'd be helping promote Juicy's public profile and get the word out to recruit
+as many talented players to the guild as possible.
+
+More specifically, the recruitment lead is responsible for:
+
+- Promoting the guild both ingame and out-of-game by creating recruitment messages on relevant
+social messages, and reusable messages that can be posted by guildies ingame.
+- Assembling and managing a small team of helpers who will work with you to recruit ingame.
+- Provide feedback on ways to improve the recruitment-onboarding experience.
+- Report feedback from new recruits to the leadership team and use the information given to help
+us improve the guild.
+- Work with other leads, such as the raid lead and raid strategist, to know what classes we're
+looking to recruit to improve our recruitment messages.
 
 ### Raid lead
 
-TODO
+The raid lead, next to the raid strategist, is an important piece of our raid's leadership. The
+raid lead is responsible for executing the plan laid out by the raid strategist. Unlike the raid
+strategist, this is a highly visible and very vocal position where you'll be leading our team on
+the night of raid.
+
+The raid lead should:
+
+- Be present at raid every. single. week.
+- Be the real-time shot-caller in raid by instructing each member in the raid what to do and where
+to go.
+- Work with the raid strategist outside of raid to understand and help refine our raid's plan.
 
 ### Raid strategist
 
-TODO
+The raid strategist, just like the raid lead, is responsible for helping our raids run smoothly.
+Unlike the raid lead, the raid strategist is not as highly visible. The raid strategist takes a
+step back from night-of shot calling and focuses instead on studying logs, strategies and team
+compositions. They use this information to craft a plan, which is executed on the night of by
+the raid lead.
+
+The raid strategist should:
+
+- Be incredibly knowledgable of TBC content and keep up to date on popular strategies to complete
+raid content to the best of our ability.
+- Work together the raid lead to refine a complete raid strategy.
+- Be the raid's go-to contact for any suggestions to improve raid stability.
+- Work with the rest of the leadership team to fill gaps that affect raid performance.
 
 ### Loot master
 
-TODO
+The loot master is responsible on the night of raid for receiving all loot and managing a system
+to ensure the correct person gets each item. This has a lot to do with Juicy's loot system which,
+at the time of writing, has not yet been defined fully. We do know, though, that we will **not
+be using a loot council** and will very likely be using points.
+
+The loot master should:
+
+- Be present at almost every raid.
+- Have a system to track and distribute items via a yet-to-be-established points system.
+- Handle potential loot-disputes in a way that's well-tempered.
+- Be responsible and never ninja loot.
 
 ### Guild bank
 
-TODO
+The guild banker is responsible for storing guild items and distributing them to the correct parties.
+By having control of most of the guild's resources, the guild banker must clearly be an extremely
+trustworthy member of the guild.
+
+The guild banker should:
+
+- Be highly available to organize, collect and distribute guild items to the parties who need them.
+- Be knowledgable of inventories and collection goals to understand what our guild needs more of,
+and what we have plenty of.
+- Help assemble programs to allow players to contribute items to the guild bank, and help the
+leadership organize reward programs for doing so. 
 
 ### Event lead
 
-TODO
+The evet lead is responsible for all non-raid events. Basically, they exist to make sure our guild is
+doing things together outside of raid, such as public small-scale raids, movie nights, PvP nights
+and more.
 
-The Raid Lead is one of our two leads focused on running a smooth and organized raid.
+The event lead should:
 
-#### Test
+- Work with officers to get permission to set up events on our Discord.
+- Be knowledgable of what kinds of events our guild would like to do together, and be proactive in
+organizing and leading such events.
 
 ## Class 3: Class Representative
 
