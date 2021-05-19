@@ -40,9 +40,10 @@ Keeping this in mind, you should keep the following things in mind when writing 
 
 1. Guild recruit messages should often include a lighthearted joke that Bill would like.
 2. Guild recruit messages should stand out and be memorable.
-3. Guild messages should contain enough information so players know:
-    - <Juicy> is a guild that's recruiting.
-    - We are a raiding guild focused on having fun and building a good community.
+3. Guild communication should let interested players know:
+    - We are primarily a raiding guild.
+    - We prefer having fun and building a good community over being sweaty.
+    - We are well organized.
     - Optional: Bill fucks, and Jordan does not.
 4. Guild recruits should be serious enough to attract real players with a real interest in playing the game.
 5. Guild recruits should stray away from being too serious and cringe.
