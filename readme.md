@@ -23,24 +23,7 @@ below when the time comes.
 - Officer: Bromeizer
 - Officer: Rómestámo / Morineçtar
 
-### Leads
-- Recruitment lead:
-- Raid lead:
-- Raid strategist: Penzo
-- Loot master:
-- Guild bank:
-- Event lead:
-
-### Class Representative
-- Druid
-- Hunter
-- Mage
-- Paladin
-- Priest
-- Rogue
-- Shaman
-- Warlock
-- Warrior
+Check Discord's #leadership-team page for a list of the active Leads and Class Representatives!
 
 # Sneeze's Juicy Manifesto
 
